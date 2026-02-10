@@ -44,7 +44,7 @@ This project is compatible with GCC (GNU Compiler Collection).
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Library-Management-System-C.git](https://github.com/YOUR_USERNAME/Library-Management-System-C.git)
+    git clone [https://github.com/zeynelbyhn/Library-Management-System-C.git](https://github.com/zeynelbyhn/Library-Management-System-C.git)
     cd Library-Management-System-C
     ```
 
